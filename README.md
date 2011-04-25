@@ -6,9 +6,9 @@ If I remember well, what you have to do is just:
 * Install [nanoc][nanoc_site]
 * Install [compass][compass_github]
 
-## thanks to
+# thanks to
 
-A big thank you to those working on those awesome project:
+A big thank you to those working on those awesome projects:
 * [Denis Defreyne][ddfreyne_github] for nanoc
 * [Christopher M. Eppstein][chriseppstein_github] for compass
 * [Joni Korpi][jonikorpi_github] for lessframework
